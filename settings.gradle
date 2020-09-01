@@ -1,0 +1,3 @@
+include ':MyWatsonCustomizedUI'
+include ':app'
+rootProject.name = "SeperateSdk"
